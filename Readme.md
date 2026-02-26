@@ -2,7 +2,7 @@
 
 Please cite: 
 
-Lang, D.，Ni H.，et al. Caveolar Compartmentalization of Pacemaker Signaling Ensures Stable Sinoatrial Rhythmicity Which Is Disrupted in Heart Failure. JACC: Clinical Electrophysiology https://doi.org/10.1016/j.jacep.2026.01.003 (2026) doi:10.1016/j.jacep.2026.01.003.
+Lang, D.，Ni, H.，et al. Caveolar Compartmentalization of Pacemaker Signaling Ensures Stable Sinoatrial Rhythmicity Which Is Disrupted in Heart Failure. JACC: Clinical Electrophysiology https://doi.org/10.1016/j.jacep.2026.01.003 (2026) doi:10.1016/j.jacep.2026.01.003.
 
 
 Code Author: Haibo Ni <haibo.ni02@gmail.com>
