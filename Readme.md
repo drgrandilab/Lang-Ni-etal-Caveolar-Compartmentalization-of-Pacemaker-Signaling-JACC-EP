@@ -33,3 +33,14 @@ python check_line_data.py```
 
 
 <img width="778" height="705" alt="image" src="https://github.com/user-attachments/assets/1c0282ac-bacb-468f-8c97-ce85c231568e" />
+
+### AHA grant acknowledgement
+
+This code source is partially funded by:
+American Heart Association (Dallas, US)
+DOI: 10.58275/AHA.24CDA1258695.pc.gr.193614
+GRANT_NUMBER: 24CDA1258695
+AND
+
+American Heart Association (Dallas, US)
+GRANT_NUMBER: 20POST35120462
