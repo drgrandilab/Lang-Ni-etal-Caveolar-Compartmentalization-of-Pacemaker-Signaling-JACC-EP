@@ -36,11 +36,11 @@ python check_line_data.py```
 
 ### AHA grant acknowledgement
 
-This code source is partially funded by:
-American Heart Association (Dallas, US)
-DOI: 10.58275/AHA.24CDA1258695.pc.gr.193614
-GRANT_NUMBER: 24CDA1258695
-AND
+This code source is partially funded by:  
+American Heart Association (Dallas, US)  
+DOI: 10.58275/AHA.24CDA1258695.pc.gr.193614  
+GRANT_NUMBER: 24CDA1258695  
+AND   
 
-American Heart Association (Dallas, US)
-GRANT_NUMBER: 20POST35120462
+American Heart Association (Dallas, US)  
+GRANT_NUMBER: 20POST35120462  
